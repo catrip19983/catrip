@@ -1,4 +1,4 @@
-i like maths and cats
+I am interested in abstractions and mathematics.
 
 <!---
 aravek/aravek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
